@@ -3404,6 +3404,7 @@ video::-webkit-media-controls {
     margin: 0 7px;
 }
 .pop#pop-credit .container .logo {
+    display: inline-block;
     width: 370px;
     height: 80px;
     background-image: url(../img/title.svg);
